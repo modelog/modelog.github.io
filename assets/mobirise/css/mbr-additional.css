@@ -1414,7 +1414,7 @@ body {
   box-shadow: none !important;
 }
 .cid-rtyGvMFrgA {
-  background-image: url("../../../assets/images/untitled-3-1920x1280.jpg");
+  background-image: url("../../../assets/images/n-1920x1280.jpg");
 }
 .cid-rtyGvMFrgA h1 {
   color: #616161;
@@ -1426,6 +1426,13 @@ body {
 }
 .cid-rtyGvMFrgA .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-rtyGvMFrgA H1 {
+  text-align: left;
+  color: #232323;
+}
+.cid-rtyGvMFrgA H3 {
+  color: #232323;
 }
 .cid-rtyJ8LcND6 {
   padding-top: 45px;
@@ -1852,7 +1859,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2314,7 +2321,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
