@@ -39,8 +39,11 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "undefined",
-    "google-analytics": ""
+    "siteUrl": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142148089-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-142148089-1');\r\n</script>\r\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
